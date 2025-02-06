@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TextbookManager.Data\TextbookManager.Data.csproj" />
-    <ProjectReference Include="..\TextbookManager.Domain\TextbookManager.Domain.csproj" />
   </ItemGroup>
 
 </Project>

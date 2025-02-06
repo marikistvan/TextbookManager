@@ -18,10 +18,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TextbookManager.Domain\TextbookManager.Domain.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Content Include="DB\data.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>

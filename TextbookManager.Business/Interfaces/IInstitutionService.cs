@@ -1,5 +1,4 @@
-﻿using TextbookManager.Domain.Model;
-using TextbookManager.Domain.Models;
+﻿using TextbookManager.Data.Model;
 
 namespace TextbookManager.Business.Interfaces
 {

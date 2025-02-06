@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace TextbookManager.Domain.Model
+namespace TextbookManager.Data.Model
 {
     public class Author
     {

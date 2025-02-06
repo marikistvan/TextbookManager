@@ -1,6 +1,6 @@
-﻿using TextbookManager.Domain.Model;
+﻿using TextbookManager.Data.Model;
 
-namespace TextbookManager.Domain.Models
+namespace TextbookManager.Data.Model
 {
     public   class InstitutionWithHisBooks
     {

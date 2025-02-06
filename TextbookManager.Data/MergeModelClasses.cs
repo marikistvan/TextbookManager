@@ -1,6 +1,6 @@
 ﻿
 using System.Text.Json.Serialization;
-using TextbookManager.Domain.Model;
+using TextbookManager.Data.Model;
 
 namespace TextbookManager.Data
 {

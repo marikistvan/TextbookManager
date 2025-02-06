@@ -1,4 +1,4 @@
-﻿namespace TextbookManager.Domain.Model
+﻿namespace TextbookManager.Data.Model
 {
     public class AuthorWithHisBooks
     {

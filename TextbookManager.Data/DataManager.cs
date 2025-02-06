@@ -1,6 +1,5 @@
 ﻿using TextbookManager.Data;
-using TextbookManager.Domain.Model;
-
+using TextbookManager.Data.Model;
 namespace Textbook.Data
 {
     public class DataManager

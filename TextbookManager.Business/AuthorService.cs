@@ -1,7 +1,7 @@
 ﻿using Textbook.Data;
 using TextbookManager.Business.Interfaces;
 using TextbookManager.Data;
-using TextbookManager.Domain.Model;
+using TextbookManager.Data.Model;
 
 namespace TextbookManager.Business
 {

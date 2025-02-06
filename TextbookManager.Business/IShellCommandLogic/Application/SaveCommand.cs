@@ -1,6 +1,6 @@
 ﻿using TextbookManager.Business.Interfaces;
 using TextbookManager.Data;
-using TextbookManager.Domain.Model;
+using TextbookManager.Data.Model;
 using TextbookManager.Business.IShellCommandLogic.Infrastructure;
 namespace TextbookManager.Business.IShellCommandLogic.Application
 {
