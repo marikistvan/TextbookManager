@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextbookManager.Business", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextbookManager.Data", "TextbookManager.Data\TextbookManager.Data.csproj", "{5C07F75D-E41F-43AB-9677-5263CCF59BB6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextbookManager.Domain", "TextbookManager.Domain\TextbookManager.Domain.csproj", "{650E5627-59CD-4B2D-9BAC-1CA023BEB991}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextbookManager.Presentation", "TextbookManager.Presentation\TextbookManager.Presentation.csproj", "{650E5627-59CD-4B2D-9BAC-1CA023BEB991}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
