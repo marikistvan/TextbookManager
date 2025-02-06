@@ -1,0 +1,46 @@
+{
+  "Tankonyv": [
+    {
+      "Id": 1,
+      "Nev": "Matematika 10.",
+      "Szerzo": 1,
+      "Kiadasi_ev": 2020
+    },
+    {
+      "Id": 2,
+      "Nev": "Fizika alapjai",
+      "Szerzo": 2,
+      "Kiadasi_ev": 2018
+    }
+  ],
+  "Szerzo": [
+    {
+      "Id": 1,
+      "Nev": "Kovacs Peter",
+      "Kor": 45
+    },
+    {
+      "Id": 2,
+      "Nev": "Nagy Anna",
+      "Kor": 50
+    }
+  ],
+  "Intezmeny": [
+    {
+      "Id": 2,
+      "Nev": "Debreceni Foiskola",
+      "Konyvek": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "Id": 1,
+      "Nev": "Szegedi Tudomanyegyetem",
+      "Konyvek": [
+        1
+      ]
+    }
+  ]
+}
